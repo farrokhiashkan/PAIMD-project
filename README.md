@@ -3,4 +3,4 @@ paper: PAIMD: A Novel Data-Driven Decomposition Method for Separating Neural Sig
 IEEE Access 2022
 # PAIMD_Example: example of using PAIMD 
 # Peak_finder_Example: example of using the peak finder algorithm
-peak finder needs Fieldtrip 
+peak finder needs Fieldtrip (for calculating IRASA)
